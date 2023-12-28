@@ -1,0 +1,34 @@
+{
+  "business.kazanexpress.ru" : {
+    "transaction" : "business.kazanexpress.ru",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 71.64000000000003,
+    "medianResTime" : 44.0,
+    "minResTime" : 38.0,
+    "maxResTime" : 1146.0,
+    "pct1ResTime" : 126.10000000000039,
+    "pct2ResTime" : 163.0,
+    "pct3ResTime" : 1139.4699999999966,
+    "throughput" : 2.1979471173923555,
+    "receivedKBytesPerSec" : 44.54255740763127,
+    "sentKBytesPerSec" : 0.2618647932830736
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 71.64000000000003,
+    "medianResTime" : 44.0,
+    "minResTime" : 38.0,
+    "maxResTime" : 1146.0,
+    "pct1ResTime" : 126.10000000000039,
+    "pct2ResTime" : 163.0,
+    "pct3ResTime" : 1139.4699999999966,
+    "throughput" : 2.1979471173923555,
+    "receivedKBytesPerSec" : 44.54255740763127,
+    "sentKBytesPerSec" : 0.2618647932830736
+  }
+}
